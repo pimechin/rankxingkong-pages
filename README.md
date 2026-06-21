@@ -1,2 +1,14 @@
 # rankxingkong-pages
-HTML page archive and documentation
+
+静态内容发布记录
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
